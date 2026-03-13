@@ -42,11 +42,6 @@ Develop a platform that provides the top ten actions an entrepreneur can take to
 - **Pandas**
 
 
-## **Project Team Members**
-- **Anmol Munnolli**  
-- **Venkata Madhumitha Gannavaram**  
-- **Virija Nandamudi**  
-- **Venkatesh Talasila**
 
 ## Summary  
 **Startup Buddy** is a smart data tool designed to help businesses analyze their performance and plan for growth. Comparing your company’s KPIs (Key Performance Indicators) with industry standards provides clear insights into how your business is doing and what you can improve. The platform uses advanced AI models, intuitive visualizations, and forecasting to make decision-making easy and effective.  
